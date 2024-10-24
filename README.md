@@ -123,6 +123,6 @@ sns.heatmap(confusion_matrix(predict_data['label'], predict_data['pred']), annot
 
 The model is trained on the fish dataset, and its performance is evaluated based on accuracy, loss, confusion matrix, and classification report. The following metrics are captured:
 
-- **Training Accuracy:** 90.22%
-- **Validation Accuracy:** 90.14%
-- **Test Accuracy:** 90.72%
+- **Training Accuracy:** 89.549%
+- **Validation Accuracy:** 92.083%
+- **Test Accuracy:** 91.722%
